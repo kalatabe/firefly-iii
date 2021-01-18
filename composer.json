@@ -59,7 +59,7 @@
     "doctrine/dbal": "2.*",
     "fideloper/proxy": "4.*",
     "laravel/framework": "5.6.*",
-    "laravel/passport": "^5.0",
+    "laravel/passport": "^7.5",
     "laravelcollective/html": "5.6.*",
     "league/commonmark": "0.*",
     "league/csv": "9.*",
